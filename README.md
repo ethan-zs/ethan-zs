@@ -1,6 +1,6 @@
 ## Hi there 👋
-📫 How to reach me: easonzswang@gmail.com
-💼 I’m currently working on Venture Capital @ Capital Today
+📫 How to reach me: easonzswang@gmail.com  
+💼 I’m currently working on Venture Capital @ Capital Today  
 <!--
 **ethan-zs/ethan-zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
